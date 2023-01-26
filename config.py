@@ -14,7 +14,21 @@ OWNER_ID = int(getenv("OWNER_ID"))
 MONGO_URL = getenv("MONGO_URL")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 ALIVE_PIC = getenv("ALIVE_PIC", "")
-ALIVE_TEXT = getenv("ALIVE_TEXT", "𝙎𝙐𝙅𝙊𝙔 𝙓 𝙐𝙎𝙀𝙍𝘽𝙊𝙏")
+ALIVE_TEXT = getenv("ALIVE_TEXT", "✘ 𝙎𝙐𝙅𝙊𝙔 𝙓 𝙐𝙎𝙀𝙍𝘽𝙊𝙏  ✘
+
+❏ νєяѕισи: 2.1
+
+├• υρтιмє:  0:00:05
+
+├• ρутнσи: 3.9.2
+
+├• ρуяσgяαм: 2.0.97
+
+├• ѕυρρσят: @COOKIE_WORLD
+
+├• ¢нαииєℓ: @AASHIYANA_MERA
+
+└• яєρσ: @MT_USER_BOT")
 PM_LOGGER = getenv("PM_LOGGER")
 LOG_GROUP = getenv("LOG_GROUP")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
